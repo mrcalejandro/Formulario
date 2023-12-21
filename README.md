@@ -1,2 +1,2 @@
-# Formulario
-This is a simple formulario in js (spanish)
+# Form
+This is a simple form in js (spanish)
